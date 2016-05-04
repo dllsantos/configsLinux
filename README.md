@@ -1,1 +1,1 @@
-# Repositorio para guardar meus arquigos de configuracao
+# RepositÓrio para guardar meus arquivos de configuração;
