@@ -1,1 +1,1 @@
-# Reposit”rio para guardar meus arquivos de configuraÁ„o;
+# Reposit√≥rio para guardar meus arquivos de configura√ß√£o;
